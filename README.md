@@ -6,4 +6,4 @@
 
 В написанном тесте (проверка таблицы питомцев) добавьте явные ожидания элементов страницы.
 
-Тесты находятся в файле test_selenium_pytest_petfriends_mypets.py
+Тесты находятся в файле test_selenium_pytest_petfriends_pets.py
